@@ -1,5 +1,7 @@
 <p align='center'><img src="https://user-images.githubusercontent.com/71534600/255708800-55bf5018-e8f7-4af3-9829-faa9acdf153c.png" width=500 /></p>
 
+# Botu çalıştırabilmek için "discord.py 1.5.1" kurmalısınız.
+
 # Hydra Mass DM
 > A mass DM discord bot which you can use to mass DM, single DM, spam an user, or nuke the server.
 
